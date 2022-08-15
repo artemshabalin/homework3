@@ -1,0 +1,15 @@
+C:\Users\uistr\Desktop\homework3\homework3\zadania\bin\Debug\net6.0\zadania.exe
+C:\Users\uistr\Desktop\homework3\homework3\zadania\bin\Debug\net6.0\zadania.deps.json
+C:\Users\uistr\Desktop\homework3\homework3\zadania\bin\Debug\net6.0\zadania.runtimeconfig.json
+C:\Users\uistr\Desktop\homework3\homework3\zadania\bin\Debug\net6.0\zadania.dll
+C:\Users\uistr\Desktop\homework3\homework3\zadania\bin\Debug\net6.0\zadania.pdb
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\zadania.csproj.AssemblyReference.cache
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\zadania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\zadania.AssemblyInfoInputs.cache
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\zadania.AssemblyInfo.cs
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\zadania.csproj.CoreCompileInputs.cache
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\zadania.dll
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\refint\zadania.dll
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\zadania.pdb
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\zadania.genruntimeconfig.cache
+C:\Users\uistr\Desktop\homework3\homework3\zadania\obj\Debug\net6.0\ref\zadania.dll
